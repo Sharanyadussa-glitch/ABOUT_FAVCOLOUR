@@ -1,0 +1,41 @@
+.info1 {
+    color: darkblue;
+    
+}
+
+.info2 {
+    color: blue;
+   
+}
+
+.info3 {
+    color: rgb(6, 39, 50);
+    text-decoration: underline;
+}
+.main-title {
+    color: navy;
+    font-size: 40px;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-style: italic;
+    background-color: lightblue;
+}
+
+body {
+ background-image: url("../pictures/pngtree-aesthetic-backdrop-featuring-a-delicate-light-blue-watercolor-texture-image_13897547.png");
+ background-repeat: no-repeat;
+ background-size: cover;
+ background-position: center;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+    height: auto;
+    border-colorstyle: solid;
+    border-radius: 10px;
+    border-shadow: 0 4px 8px rgba(11, 10, 10, 0.2);
+    border: 1px solid rgba(8, 8, 8, 0.2);
+}
